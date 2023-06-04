@@ -1,0 +1,24 @@
+{
+  "name": "gura-encryptor",
+  "version": "1.0.0",
+  "description": "Simple node package for encryption",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireStreaker2/Gura-Encryptor.git"
+  },
+  "keywords": [
+    "nodejs",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "FireStreaker2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FireStreaker2/Gura-Encryptor/issues"
+  },
+  "homepage": "https://github.com/FireStreaker2/Gura-Encryptor#readme"
+}
